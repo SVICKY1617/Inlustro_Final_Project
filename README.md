@@ -33,6 +33,6 @@ Exploration of additional data sources for potentially enhanced accuracy.
 
 Getting Started:
 
-1. Clone this repository: git clone https://github.com/sudarsansathishkumar/CancerDetection
+1. Clone this repository: git clone https://github.com/SVICKY1617/Generative-AI-for-Engineering--Cancer-Detection.git
 2. Install required libraries: pip install -r requirements.txt
 3. Refer to the Jupyter Notebooks for a detailed explanation of the project's implementation.
